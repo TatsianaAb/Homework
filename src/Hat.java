@@ -2,5 +2,6 @@ package src;
 
 public class Hat {
 
-    //add some line
+    //add some lines
+    //commit those changes
 }
